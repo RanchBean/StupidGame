@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="SecondGame/SecondGame.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SecondGame/Controller/SecondGame.cs">
+    <Files>
+      <File FileName="SecondGame/Controller/Program.cs" Line="69" Column="6" />
+      <File FileName="SecondGame/Controller/SecondGame.cs" Line="90" Column="27" />
+      <File FileName="SecondGame/Model/Player.cs" Line="30" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="/Users/ethr5627/Documents/Xamarin Projects/SecondGame/SecondGame/Model/Player.cs" line="25" column="25" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
